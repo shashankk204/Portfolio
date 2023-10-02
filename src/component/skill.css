@@ -1,0 +1,13 @@
+/* .container-skill {
+    padding-top: 1%;
+    border: 10px dotted;
+    min-height: 100vh;
+    padding-left: 1rem;
+} */
+.row{
+    margin: 2rem 0rem;
+}
+.svg{
+    height: 40px;
+    width: auto;
+}

@@ -1,16 +1,35 @@
-import { useState } from 'react'
 import './App.css'
-import Skill from './components/main/skill'
-import Nv from './components/Navbar'
-import Project from './components/main/project'
-import About from './components/main/about'
+import Nbar from './component/Nbar'
+import About from './component/About'
+import Projects from './component/Projects'
+import Skill from './component/Skill'
+import Contact from './component/Contact'
+import Footer from './component/Footer'
+
 function App() {
+
   return (
     <>
-          <Nv />
-          {/* <About /> */}
-          <Project />
-          {/* <Skill /> */}
+      <header>
+        <Nbar />
+      </header>
+      <main>
+        <section id='about'>
+          <About />
+        </section>
+        <section id='project'>
+          <Projects />
+        </section>
+        <section id='skill'>
+          <Skill />
+        </section>
+        <section id='contact'>
+          <Contact />
+        </section>
+      </main>
+      <footer>
+        <Footer />
+      </footer>
     </>
   )
 }

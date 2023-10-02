@@ -1,0 +1,40 @@
+/* .container-project{
+    border: 10px dotted;
+    height: 100vh;
+    padding-left: 1rem;
+    display: block;
+    align-content: center;
+}
+.card{
+    border: 10px dotted;
+
+}
+.pname{
+    border: 5px dotted;
+    display: flex;
+}
+.ptxt{
+    border: 2px dotted;
+} */
+/* .card{
+    height: auto;
+    width: 20rem;
+
+}
+.card-row{
+    
+    display:grid ;
+    grid-template-columns: repeat(2,1fr);
+    
+
+}
+.pname{
+    display:flex;
+    justify-content: center;
+}
+.ptext{
+    height: 20rem;
+} */
+.space{
+    margin: 7rem;
+}

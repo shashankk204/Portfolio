@@ -1,0 +1,36 @@
+/* .container-contact {
+    padding-top: 1%;
+    border: 10px dotted;
+    min-height: 100vh;
+    padding-left: 1rem;
+    
+}
+
+.pc1{
+    text-align: center;
+}
+.pc2{
+    border: 10px dotted;
+    padding: 1% 1% 1% 1%;
+    text-align: center;
+}
+.mail-container{
+    margin-top: 2rem;
+    border: 2px dotted;
+    display: flex;
+    justify-content: center;
+    
+} */
+.pc1{
+    text-align: center;
+}
+.mail-link{
+    /* border: 2px dotted; */
+    display: flex;
+    justify-content: center;
+    
+}
+.txt-link{
+    margin-top: 10rem;
+  
+}
